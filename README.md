@@ -6,7 +6,7 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*Estas instrucciones están [disponibles en Español](https://github.com/breatheco-de/scan-with-nmap-practice/blob/main/README.es.md)*
+*Estas instrucciones están [disponibles en Español](https://github.com/Dieg0bl/scan-with-nmap-practice/blob/main/README.es.md)*
 
 ### Before you start...
 
@@ -26,7 +26,7 @@ We will identify active hosts, open ports on the network, and which services are
 
 ## 📝 Instructions
 
-* Open this URL and fork the repository https://github.com/breatheco-de/scan-with-nmap-practic
+* Open this URL and fork the repository https://github.com/Dieg0bl/scan-with-nmap-practice
 
  ![fork button](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/fork_button.png?raw=true)
 
@@ -83,7 +83,7 @@ Use public vulnerability databases to find information about the detected servic
 
 - [ ] Document the vulnerabilities in a structured manner. Here is an example of how to document a vulnerability:
 
-![vulnerability report](https://github.com/breatheco-de/scan-with-nmap-practice/blob/main/assets/report-vul.png?raw=true)
+![vulnerability report](https://github.com/Dieg0bl/scan-with-nmap-practice/blob/main/assets/report-vul.png?raw=true)
 
 ## Delivery
 

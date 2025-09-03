@@ -8,8 +8,8 @@
 		"us": "Learn how to use Nmap for network analysis and vulnerability detection by scanning ports, identifying active hosts, and checking services on a target machine to find security weaknesses.",
 		"es": "Aprende a usar Nmap para el análisis de redes y detección de vulnerabilidades escaneando puertos, identificando hosts activos y verificando servicios en una máquina objetivo para encontrar debilidades de seguridad."
 	},
-	"preview": "https://github.com/breatheco-de/scan-with-nmap-practice/blob/main/assets/preview-dvwa.jpg?raw=true",
-	"repository": "https://github.com/breatheco-de/scan-with-nmap-practice",
+	"preview": "https://github.com/Dieg0bl/scan-with-nmap-practice/blob/main/assets/report-vul.png?raw=true",
+	"repository": "https://github.com/Dieg0bl/scan-with-nmap-practice",
 	"duration": 2,
 	"difficulty": "intermediate",
 	"bugsLink": "https://github.com/learnpack/learnpack/issues/new",
