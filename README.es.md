@@ -7,7 +7,7 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*These instructions are [available in english](https://github.com/breatheco-de/scan-with-nmap-practice/blob/main/README.md)*
+*These instructions are [available in english](https://github.com/Dieg0bl/scan-with-nmap-practice/blob/main/README.md)*
 <!-- endhide -->
 
 
@@ -34,7 +34,7 @@ Identificaremos hosts activos, puertos abiertos en la red y qué servicios está
 
 ## 📝 Instrucciones
 
-* Abre esta URL y forkea el siguiente repositorio https://github.com/breatheco-de/scan-with-nmap-practice
+* Abre esta URL y forkea el siguiente repositorio https://github.com/Dieg0bl/scan-with-nmap-practice
 
  ![fork button](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/fork_button.png?raw=true)
 
@@ -90,7 +90,7 @@ ingresa "Apache 2.4.7" en la barra de búsqueda.
 
 - [] Documenta las vulnerabilidades de manera estructurada. Aquí tienes un ejemplo de cómo documentar una vulnerabilidad:
 
-![reporte de vulnerabilidad](https://github.com/breatheco-de/scan-with-nmap-practice/blob/main/assets/report-vul-es.png?raw=true)
+![reporte de vulnerabilidad](https://github.com/Dieg0bl/scan-with-nmap-practice/blob/main/assets/report-vul-es.png?raw=true)
 
 ## Entrega de proyecto
 
